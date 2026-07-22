@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lingonhills.github.io/kul-ing/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://lingonhills.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://lingonhills.github.io/kul-ing/</loc>
+<loc>https://lingonhills.github.io/</loc>
 </url>
 <url>
-<loc>https://lingonhills.github.io/kul-ing/guan-yu-ling-shang-ling-2.html</loc>
+<loc>https://lingonhills.github.io/guan-yu-ling-shang-ling-2.html</loc>
 <lastmod>2026-07-22T15:28:34+08:00</lastmod>
 </url>
 <url>
-<loc>https://lingonhills.github.io/kul-ing/guan-yu-ling-shang-ling-3.html</loc>
+<loc>https://lingonhills.github.io/guan-yu-ling-shang-ling-3.html</loc>
 <lastmod>2026-07-22T15:28:16+08:00</lastmod>
 </url>
 <url>
-<loc>https://lingonhills.github.io/kul-ing/guan-yu-ling-shang-ling.html</loc>
+<loc>https://lingonhills.github.io/guan-yu-ling-shang-ling.html</loc>
 </url>
 </urlset>

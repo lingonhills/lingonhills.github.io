@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://lingonhills.github.io/kul-ing/sitemap.xml
+Sitemap: https://lingonhills.github.io/sitemap.xml
