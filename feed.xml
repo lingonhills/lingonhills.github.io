@@ -3,12 +3,32 @@
     <title>嶺上苓的小屋 Ling on HilLs&#x27;s blog</title>
     <link href="https://lingonhills.github.io/feed.xml" rel="self" />
     <link href="https://lingonhills.github.io" />
-    <updated>2026-08-03T15:20:56+08:00</updated>
+    <updated>2026-08-03T16:01:39+08:00</updated>
     <author>
         <name>Ling on HilLs</name>
     </author>
     <id>https://lingonhills.github.io</id>
 
+    <entry>
+        <title>一期一會</title>
+        <author>
+            <name>Ling on HilLs</name>
+        </author>
+        <link href="https://lingonhills.github.io/yi-qi-yi-hui.html"/>
+        <id>https://lingonhills.github.io/yi-qi-yi-hui.html</id>
+
+        <updated>2026-08-03T16:01:39+08:00</updated>
+            <summary>
+                <![CDATA[
+                    旅遊
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>旅遊</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>部落格始於一個普通的念想</title>
         <author>
@@ -16,19 +36,19 @@
         </author>
         <link href="https://lingonhills.github.io/guan-yu-zhe-ge-bu-luo-ge.html"/>
         <id>https://lingonhills.github.io/guan-yu-zhe-ge-bu-luo-ge.html</id>
-        <media:content url="https://lingonhills.github.io/media/posts/5/DSC00010.JPG" medium="image" />
+        <media:content url="https://lingonhills.github.io/media/posts/5/Cha-Tu.png" medium="image" />
             <category term="部落格的事"/>
 
         <updated>2026-08-03T10:58:29+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lingonhills.github.io/media/posts/5/DSC00010.JPG" alt="" />
+                        <img src="https://lingonhills.github.io/media/posts/5/Cha-Tu.png" alt="" />
                     還是得從漫畫說起 我從去年的春天開始嘗試創作漫畫，靈感通常都是日記上的一句話，我想辦法抓住我的靈魂為那句話顫抖的細微感受，然後將它擴寫成一篇漫畫。例如《書展與花環》這一篇八頁短漫。不過以這種突發奇想的方式是經營不起一篇中長篇漫畫的，所以我在今年七月就試著用文字的方式慢慢勾勒一部作品的世界觀、角色、背景… …等。 其中一個角色的設定是「以文字維生的大學應屆畢業少女」， 既然這位少女將來會筆耕不輟，那麼他一定有和文字相關的興趣。我想到他平常也許會喜歡寫部落格。結果因為這一個念頭，為了更理解這個角色，我先是簡單查了一些台灣部落格的發展歷史，後來我找到了數個現在仍在營運且持續壯大的部落格。 太有趣了。越看越覺得有趣，大家的網站都好有想法。我看到素未謀面的他們在網路上用文字描述他們的近況：最近的一個月的新嗜好是什麼？看了什麼電影？在那之後有什麼感想？他們很安靜的用文字細細述說，閱讀時我感覺到一點文字獨有的親密感。 那是我久未體會到的網路氛圍。安靜、專注、花時間理解一個人。原來在這些文章的背後有一群活生生的人，默默的在向世界傳送這些資訊。我也想加入。 我後來聯絡上有在寫部落格的朋友Itlnx，他透過Publii這個免費的開源軟體協助我架設這個網站，超級感謝ltlnx的協助(^^) 我是文組生，是一個完全沒有程式基礎的人，不過Publii讓我不用打一行程式碼就完成了這個頁面。這個世界擁有比想像中還多的人在努力實踐他們的想法，所以類似的架站服務還有很多，如果你也想架設網站的話，我想對你說去試試看吧~!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://lingonhills.github.io/media/posts/5/DSC00010.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lingonhills.github.io/media/posts/5/Cha-Tu.png" class="type:primaryImage" alt="" /></p>
                 <h2 id="還是得從漫畫說起">還是得從漫畫說起</h2>
 <p>我從去年的春天開始嘗試創作漫畫，靈感通常都是日記上的一句話，我想辦法抓住我的靈魂為那句話顫抖的細微感受，然後將它擴寫成一篇漫畫。例如<a href="https://cxc.today/zh/@ling_on_hills/book/56444/reader/356629">《書展與花環》</a>這一篇八頁短漫。不過以這種突發奇想的方式是經營不起一篇中長篇漫畫的，所以我在今年七月就試著用文字的方式慢慢勾勒一部作品的世界觀、角色、背景… …等。</p><p>其中一個角色的設定是「以文字維生的大學應屆畢業少女」，</p><p>既然這位少女將來會筆耕不輟，那麼他一定有和文字相關的興趣。我想到他平常也許會喜歡寫部落格。結果因為這一個念頭，為了更理解這個角色，我先是簡單查了一些台灣部落格的發展歷史，後來我找到了數個現在仍在營運且持續壯大的部落格。</p><h2 id="部落格看起來好有趣">部落格看起來好有趣</h2>
 <p>太有趣了。越看越覺得有趣，大家的網站都好有想法。我看到素未謀面的他們在網路上用文字描述他們的近況：最近的一個月的新嗜好是什麼？看了什麼電影？在那之後有什麼感想？他們很安靜的用文字細細述說，閱讀時我感覺到一點文字獨有的親密感。</p><p>那是我久未體會到的網路氛圍。安靜、專注、花時間理解一個人。原來在這些文章的背後有一群活生生的人，默默的在向世界傳送這些資訊。我也想加入。</p><h2 id="0程式背景的架站經驗">0程式背景的架站經驗</h2>
